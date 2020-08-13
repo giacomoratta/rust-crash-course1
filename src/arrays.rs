@@ -1,5 +1,3 @@
-// Arrays - Fixed list where elements are the same data types
-
 use std::mem;
 
 pub fn run() {
