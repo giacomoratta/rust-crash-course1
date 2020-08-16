@@ -1,4 +1,7 @@
-mod pointer_ref;
+mod cli;
+// mod enums;
+// mod structs;
+// mod pointer_ref;
 // mod functions;
 // mod loops;
 // mod conditionals;
@@ -21,5 +24,8 @@ fn main() {
     // conditionals::run();
     // loops::run();
     // functions::run();
-    pointer_ref::run();
+    // pointer_ref::run();
+    // structs::run();
+    // enums::run();
+    cli::run();
 }
